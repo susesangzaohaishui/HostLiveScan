@@ -1,0 +1,6 @@
+<root>
+	<item m_node_ip = "192.168.0.1"    m_node_id = "3"  m_scan_time="2"    m_time_out = "6"/>
+	<item m_node_ip = "127.0.0.1"      m_node_id = "6"  m_scan_time="1"    m_time_out = "10"/>
+	<item m_node_ip = "192.168.9.23"   m_node_id = "7"  m_scan_time="1"    m_time_out = "20"/>
+</root>
+
